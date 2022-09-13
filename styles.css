@@ -1,0 +1,60 @@
+/* styles.css */
+
+.Odin {
+    background-color: slateblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: right;
+}
+
+.heading {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: aqua;
+}
+
+#avocado-toast {
+    font-weight: bolder;
+    background-color: darkseagreen;
+}
+
+#avo-toast {
+    font-size: 45px;
+    background-color: blueviolet;
+
+}
+
+#pasta {
+    background-color: khaki;
+}
+
+.heading1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+    background-color: rgb(96, 16, 28);
+}
+
+
+#pasta .heading1 {
+    font-weight: 900;
+}
+
+.recipes {
+    font-weight: 400;
+}
+
+body {
+    background-color: crimson;
+}
+
+h2 {
+    background-color: plum;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+#quesadilla {
+    font-size: 20px;
+
+}
