@@ -3,7 +3,7 @@
 ##testing a heading  
 
 here is the live site:
-https://spatel510.github.io/odin-recipes/
+https://shraddha510.github.io/odin-recipes/
 
 Building a basic recipe website  
 
